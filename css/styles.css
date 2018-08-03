@@ -1,9 +1,15 @@
 .contactdetails {
   color: blue;
+  width: 300px;
+  float: left;
 }
 .education {
   color: brown;
+  width: 300px;
+  margin: 0 auto;
 }
 .skillsandabilities {
   color: purple;
+  width: 300px;
+  float: right;
 }
